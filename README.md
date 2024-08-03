@@ -11,8 +11,4 @@ Intopage is a modern and responsive web page template built with [TailwindCSS](h
 
 ## Demo
 
-Check out the live demo [here]([https://your-demo-link.com](https://ayushatree.github.io/tailwindcss-basicpage1/)).
-
-
-
-
+Check out the live demo [[here](https://ayushatree.github.io/tailwindcss-basicpage1/)]).
